@@ -16,4 +16,4 @@ class Persona():
 Aaron = Persona('Aaron', 19)
 Cesar = Persona('Cesar',19)
 nuevapersona = Aaron + Cesar
-print(nuevapersona.edad)
+print(nuevapersona.nombre)
