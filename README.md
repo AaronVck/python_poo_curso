@@ -15,16 +15,28 @@ Llegué hasta el ejercicio 3 y lo completé, me costó algo resolverlo porque me
 Nota: Para comentar todo el código es ctrl + k + c
 
 Concepto SOLID, se compone de las siguientes caracteríscticas (Las mas fundamentales):
+
 1.-Mantenibilidad: El software debe ser fácil de mantener y tener buenas prácticas.
-2.-Reusanilidad: Software diseñado para ser reutilizable, en el mismo proyecto o alguno distinto
+
+2.-Reusabilidad: Software diseñado para ser reutilizable, en el mismo proyecto o alguno distinto.
+
 3.-Legibilidad: Fácil de leer y enteder, comentar código.
+
 4.-Extensibilidad: El software debe permitir extenderse sin afectar el mismo código.
+
 S.-Principio de responsabilidad Único (SRP): Una persona se tiene que encargar de sólo una cosa. Cada clase debe tener solo una responsabilidad. No deben ser dependientes.
-O.-Principio de abierto/cerrado (OCP): Las entidades de software deben estar abiertas a extensión pero cerradas para modificación. Deberiamos poder agregar nuevas funciones sin modificar el código fuente. El principio es dejar un sistema para agregar mas funciones sin modificar las que ya existen.
+
+O.-Principio de abierto/cerrado (OCP): Las entidades de software deben estar abiertas a extensión pero cerradas para modificación. Deberiamos poder agregar nuevas funciones sin 
+modificar el código fuente. El principio es dejar un sistema para agregar mas funciones sin modificar las que ya existen.
+
 L.-Principio de sustitución de Liskov (LSP): Establece que las clases derivadas tiene que ser sustituibles por sus clases bases.
+
 I.-Principio de segregación de interfaz (ISP): Ningun cliente tiene que ser forzado a depender de interfaces que no utilice.
+
 D.-Principio de inversión de dependencias (DIP): Los modulos de alto nivel no tienen que depender de los de bajo nivel, los dos tienen que depender de las abstracciones. Las abstracciones no deben depender de los detalles, los detalles deben depender de las abstracciones. Esto permite mas flexibilidad y facilita el testeo
 
 Llegué hasta el ejercicio final, lo dejaré para otro día ya que quiero hacer otras cosas. Aprendí sobre el concepto SOLID y buenas prácticas de programación, dejé algo de lado este curso debido a la UNI pero ya estoy de vuelta, espero realizar la práctica en al 3 días o menos. Hice esta práctica el día 21 de Agosto del 2023. Llevo 3 horas 40 minutos del curso.
 
 Completé todo el curso de dalto de POO con Python, hice el proyecto final con textblob en lugar de con la API de openai, siento que sí comprendí el código de openai pero no estoy seguro, necesitaría programar un poco porr mi cuenta para averiguarlo, será en otra ocasión. Acabé el curso el día 26 de Agosto de 2023.
+
+
