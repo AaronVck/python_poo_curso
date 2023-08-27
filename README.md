@@ -25,4 +25,6 @@ L.-Principio de sustitución de Liskov (LSP): Establece que las clases derivadas
 I.-Principio de segregación de interfaz (ISP): Ningun cliente tiene que ser forzado a depender de interfaces que no utilice.
 D.-Principio de inversión de dependencias (DIP): Los modulos de alto nivel no tienen que depender de los de bajo nivel, los dos tienen que depender de las abstracciones. Las abstracciones no deben depender de los detalles, los detalles deben depender de las abstracciones. Esto permite mas flexibilidad y facilita el testeo
 
-Llegué hasta el ejercicio final, lo dejaré para otro día ya que quiero hacer otras cosas. Aprendí sobre el concepto SOLID y buenas prácticas de programación, dejé algo de lado este curso debido a la UNI pero ya estoy de vuelta, espero realizar la práctica en al 3 días o menos. Hice esta práctica el día 21 de Agosto del 2023. Llevo 3 horas 40 minutos del curso
+Llegué hasta el ejercicio final, lo dejaré para otro día ya que quiero hacer otras cosas. Aprendí sobre el concepto SOLID y buenas prácticas de programación, dejé algo de lado este curso debido a la UNI pero ya estoy de vuelta, espero realizar la práctica en al 3 días o menos. Hice esta práctica el día 21 de Agosto del 2023. Llevo 3 horas 40 minutos del curso.
+
+Completé todo el curso de dalto de POO con Python, hice el proyecto final con textblob en lugar de con la API de openai, siento que sí comprendí el código de openai pero no estoy seguro, necesitaría programar un poco porr mi cuenta para averiguarlo, será en otra ocasión. Acabé el curso el día 26 de Agosto de 2023.
